@@ -4,4 +4,4 @@ WORKDIR /app
 RUN pip install -r requirements.txt
 RUN chmod +x installer.sh && ./installer.sh
 EXPOSE 5000
-CMD python ./gen.py
+CMD anonsurf start && python ./gen.py
