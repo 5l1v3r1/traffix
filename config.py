@@ -8,11 +8,7 @@ debug = True # set to True to enable useful console output
 #rootURLs = ["https://digg.com/"] 
 
 rootURLs = [
-        "https://www.cafebilge.com/",
-	"https://twitter.com/cafebilge/",
-	"https://www.un5t48l3.com/",
-	"https://www.youtube.com/channel/UCDzq_6sg0qhAgZFzIKSsYPQ/",
-	"https://ototwit.online/"
+		"https://2no.co/28eXu5/"
         ]
 
 
