@@ -1,0 +1,8 @@
+VirtualAddrNetwork 10.192.0.0/10
+AutomapHostsOnResolve 1
+TransPort 9040
+SocksPort 9050
+DNSPort 53
+RunAsDaemon 1
+MaxCircuitDirtiness 10
+CircuitIdleTimeout 10
